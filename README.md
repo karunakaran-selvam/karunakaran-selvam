@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Karunakaran Selvam
 
-<!--
-**karunakaran-selvam/karunakaran-selvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 6+ years of experience in React.js, TypeScript, JavaScript, and modern web technologies.
 
-Here are some ideas to get you started:
+## 🚀 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Whoami](https://karunakaran.vercel.app)
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- Vite
+
+## 📂 Featured Projects
+
+- Portfolio Website
+- React Applications
+- UI Components
+
+## 📫 Connect with Me
+- LinkedIn: [Karunakaran Selvam](https://www.linkedin.com/in/karunakaran-selvam)
+- Whatsapp: [+91 9566622876](https://wa.me/+919566622876?text=%22Hello%20Buddy%22)
